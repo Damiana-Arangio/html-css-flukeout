@@ -1,15 +1,18 @@
+<p align="center">
+  <img src="img/boolean-logo.png" alt="Boolean logo" width="35">
+</p>
+
 <h1 align="center">Flukeout – CSS Diner</h1>
 
-<p align="center">
-  Esercizio svolto durante il corso Boolean per esercitarmi con i selettori CSS tramite il gioco Flukeout (CSS Diner).
-</p>
+Esercizio dedicato ad allenare l’uso dei selettori CSS attraverso il gioco online
+[Flukeout (CSS Diner)](https://flukeout.github.io/).
 
 ## Obiettivo
 
-- Completare tutti i livelli del gioco <a href="https://flukeout.github.io/" target="_blank">Flukeout (CSS Diner)</a>.
-- Allenarsi a riconoscere e scrivere correttamente i principali selettori CSS.
+- Completare tutti i livelli del gioco Flukeout (CSS Diner)
+- Allenarsi a riconoscere e scrivere correttamente i principali selettori CSS
 - Utilizzare la documentazione di supporto, in particolare:
-  - <a href="https://www.w3schools.com/cssref/css_selectors.asp" target="_blank">W3Schools – CSS Selectors</a>.
+  - [W3Schools – CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ## Anteprima
 
